@@ -2,7 +2,8 @@
 
 var tests = [
   'tests/app/truthy',
-  'tests/app/falsy'
+  'tests/app/falsy',
+  'tests/app/deps'
 ];
 
 if (typeof window === 'undefined') {
