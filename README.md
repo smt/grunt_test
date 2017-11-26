@@ -2,7 +2,7 @@
 
 Messing around a bit on some Grunt stuff. Just scratching the surface really.
 
-For now, getting a [Mocha](http://visionmedia.github.com/mocha/) testing setup
+For now, getting a [Mocha](http://mochajs.org/) testing setup
 that can run the same tests in 3 different contexts:
 
 1. In actual browser (using `runner.html` file)
